@@ -12,7 +12,7 @@ npm install
 npm run dev
 ```
 
-Open/create **.env** fileset database configuration
+Open/create **.env** file set database configuration
 
 ```
 php artisan migrate
